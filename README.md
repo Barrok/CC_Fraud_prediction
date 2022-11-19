@@ -1,4 +1,4 @@
-# CC_Fraud_prediction
+# CC_Fraud_detection
 
 https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
